@@ -50,4 +50,3 @@
 <a href="sohanjainsn2022@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sohanjainsn2022%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [snsohanjain](https://github.com/snsohanjain)

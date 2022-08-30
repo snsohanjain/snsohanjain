@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Bachelor of Engineering at Visvesvaraya Technological University (VTU).
+- 🎓 &nbsp; Completed Bachelor of Engineering at Visvesvaraya Technological University (VTU).
 - 💼 &nbsp; Pursuing a Backend Devloper Track @ Crio.do.
 - 🌱 &nbsp; Learning more about Full Stack Web Devlopment, DSA and Systems Design.
 

@@ -33,6 +33,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsohanjain&theme=buefy&layout=compact" />
 </a>
 
+# 📊 GitHub Stats:
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=snsohanjain&theme=dark&hide_border=false)<br/>
+
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=snsohanjain&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=snsohanjain&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
